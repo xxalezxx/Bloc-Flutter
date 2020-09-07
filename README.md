@@ -7,8 +7,8 @@ This is an example of how the BLOC into Flutter works.
 You have:
 
 - Stream
---StreamController
---StreamBuild
+- StreamController
+- StreamBuild
 
 You send some information throw the Stream and any Widget can read it and update the screen on the phone. 
 
