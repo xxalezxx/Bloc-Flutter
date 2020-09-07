@@ -1,18 +1,18 @@
-#BLOC Flutter
+# BLOC Flutter
 
 This is an example of how the BLOC into Flutter works.
 
-##Function
+## Function
 
 You have:
 
---Stream
+- Stream
 --StreamController
 --StreamBuild
 
 You send some information throw the Stream and any Widget can read it and update the screen on the phone. 
 
-##Example 1 - BLOC - Flutter / Dart
+## Example 1 - BLOC - Flutter / Dart
 
 
 
